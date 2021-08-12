@@ -1,4 +1,3 @@
-# Ingress-LoadBalancer
 ## Ingress Load Balancer via MetalLB
 
 In the first step, install the METALLB service on your Kubernetes cluster. https://metallb.universe.tf
