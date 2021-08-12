@@ -1,5 +1,5 @@
 # Ingress-LoadBalancer
-##Ingress Load Balancer via MetalLB
+## Ingress Load Balancer via MetalLB
 
 In the first step, install the METALLB service on your Kubernetes cluster. https://metallb.universe.tf
 Do the METALLB configuration as follows.
@@ -13,6 +13,8 @@ metallb_protocol: "layer2"
 ```
 
 
-references: 
+references:
+ 
 https://imranh.co.uk/2020/05/21/kubespray-ingress-loadbalancer.html 
+
 https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/
