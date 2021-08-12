@@ -13,4 +13,6 @@ metallb_protocol: "layer2"
 ```
 
 
-refrence: https://imranh.co.uk/2020/05/21/kubespray-ingress-loadbalancer.html 
+references: 
+https://imranh.co.uk/2020/05/21/kubespray-ingress-loadbalancer.html 
+https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/
